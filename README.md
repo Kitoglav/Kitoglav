@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kitoglav.
 - 👀 I’m interested in game-development, MMO game-designing.
-- 🌱 I’m currently learning Java 17, Spring Framework, Hibernate + PostgreSQL
+- 🌱 I’m currently learning Java 17, OpenGL + LWJGL, Spring Framework, Hibernate + PostgreSQL
 - 📫 How to reach me: 
 -   Discord `Kitoglav`, 
 -   Telegram: `@kitogl4v`
