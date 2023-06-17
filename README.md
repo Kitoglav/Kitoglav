@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kitoglav.
-- 👀 I’m interested in game-development, .
+- 👀 I’m interested in game-development, MMO game-designing.
 - 🌱 I’m currently learning Java 17, Spring Framework, Hibernate + PostgreSQL
 - 📫 How to reach me: 
 -   Discord `Kitoglav`, 
