@@ -46,6 +46,7 @@
 **Repository:** [bankcards-kitoglav](https://github.com/Kitoglav/bankcards-kitoglav)
 
 **Tech Stack:**  
+
 ![Java](https://img.shields.io/badge/Java-21-ED8B00?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-4169E1?logo=postgresql&logoColor=white)
@@ -59,6 +60,7 @@
 *Team Project - Backend Development Lead*
 
 **Tech Stack:**  
+
 ![Java](https://img.shields.io/badge/Java-21-ED8B00?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?logo=springboot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-2022.0-6DB33F?logo=spring&logoColor=white)
@@ -68,6 +70,22 @@
 ![Gradle](https://img.shields.io/badge/Gradle-8.14.3-02303A?logo=gradle&logoColor=white)
 ![Spring Eureka](https://img.shields.io/badge/Spring_Eureka-3.x-6DB33F?logo=spring&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-3.2.8-005F0F?logo=thymeleaf&logoColor=white)
+
+### 📄 **Document Service** (Monolithic)
+
+**Repository:** [itq-group-doc-service](https://github.com/Kitoglav/itq-group-doc-service)
+
+**Tech Stack:**
+
+![Java](https://img.shields.io/badge/Java-21-ED8B00?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-4.0.3-6DB33F?logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-4169E1?logo=postgresql&logoColor=white)
+![Liquibase](https://img.shields.io/badge/Liquibase-5.0.x-2962FF?logo=liquibase&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-24.0-2496ED?logo=docker&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-8.14.3-02303A?logo=gradle&logoColor=white)
+![Swagger UI](https://img.shields.io/badge/Swagger_UI-5.31.0-FF7417?logo=swagger&logoColor=white)
+![JUnit 5](https://img.shields.io/badge/JUnit-5-FFBF00?logo=junit5&logoColor=black)
 
 ---
 
