@@ -85,7 +85,7 @@
 ![Docker](https://img.shields.io/badge/Docker-24.0-2496ED?logo=docker&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-8.14.3-02303A?logo=gradle&logoColor=white)
 ![Swagger UI](https://img.shields.io/badge/Swagger_UI-5.31.0-FF7417?logo=swagger&logoColor=white)
-![JUnit 5](https://img.shields.io/badge/JUnit-5-FFBF00?logo=junit5&logoColor=black)
+![JUnit 5](https://img.shields.io/badge/JUnit5-5-AABF00?logo=junit5&logoColor=white)
 
 ---
 
